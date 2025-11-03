@@ -1,0 +1,13 @@
+What is Git? __ It's a distributed system of control versions
+-- The own Git page has his own book -- It's name is Pro Git
+LINUS TORVALDS-- The kernel linux owner
+
+__COMMANDS__
+
+__ git --version ó git -v: It shows the actual git version on the computer or dispositive
+__ git -h: Show the option that you have on your commands at Git
+__ ls: To show all the directories
+__ cd: To access to the directory that you want For ex: "cd Documents"
+__ cd ..: To go back from a directory, if i wre in document, I will go back to the basic directory
+__ pwd: To know where is the route I'm located
+
